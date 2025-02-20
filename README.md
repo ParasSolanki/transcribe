@@ -1,6 +1,6 @@
-# YouTube Transcripts/Summaries
+# YouTube Transcripts/Chapters
 
-A simple tool to get the transcripts and summaries of YouTube videos with AI.
+A simple tool to get the transcripts and chapters of YouTube videos with AI.
 
 ## Installation
 
